@@ -1,12 +1,12 @@
 var iss,spacecraft,hasDocked
 
 function preload(){
-  bg=loadImage("Docking-undocking/spacebg.jpg");
-  iss_image=loadImage("Docking-undocking/iss.png");
-  scimg1=loadImage("Docking-undocking/spacecraft1.png");
-  scimg2=loadImage("Docking-undocking/spacecraft2.png");
-  scimg3=loadImage("Docking-undocking/spacecraft3.png");
-  scimg4=loadImage("Docking-undocking/spacecraft4.png");
+  bg=loadImage("../Docking-undocking/spacebg.jpg");
+  iss_image=loadImage("../Docking-undocking/iss.png");
+  scimg1=loadImage("../Docking-undocking/spacecraft1.png");
+  scimg2=loadImage("../Docking-undocking/spacecraft2.png");
+  scimg3=loadImage("../Docking-undocking/spacecraft3.png");
+  scimg4=loadImage("../Docking-undocking/spacecraft4.png");
 }
 
 function setup() {
